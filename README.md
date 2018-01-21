@@ -1,2 +1,2 @@
 # liquid
-http://www.liquidworks.es/
+Pasar app creada en Ruby a Angular
